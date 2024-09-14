@@ -12,6 +12,7 @@
 
 /* Begin PBXFileReference section */
 		56462F602C95991100083E8D /* Issue1619.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Issue1619.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		56462F822C959EF900083E8D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,6 +38,7 @@
 		56462F572C95991100083E8D = {
 			isa = PBXGroup;
 			children = (
+				56462F822C959EF900083E8D /* README.md */,
 				56462F622C95991100083E8D /* Issue1619 */,
 				56462F612C95991100083E8D /* Products */,
 			);
